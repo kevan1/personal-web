@@ -3,11 +3,10 @@ import useDarkMode from 'use-dark-mode';
 
 import { config } from '../config';
 import Header from './Header';
-import { Dev } from './Dev';
-import { Medium } from './Medium';
+
 //import { Repository } from './Repository/';
 import { About } from './About';
-import { Newsletter } from './Newsletter';
+//import { Newsletter } from './Newsletter';
 
 const App = () => {
 	const darkMode = useDarkMode(false);
@@ -17,10 +16,9 @@ const App = () => {
 		<div className="App">
 			<Header {...config} darkMode={darkMode} />
 			<About name={config.name} />
-			{config.blog === 'Dev' && <Dev username={config.dev} />}
-			{config.blog === 'Medium' && <Medium username={config.medium} />}
 			
-			<Newsletter />
+			
+			
 		</div>
 	);
 };

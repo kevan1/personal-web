@@ -9,11 +9,11 @@ const About = ({ name }) => {
 			<div className="details">
 				<div className="item text-muted">
 					<p>
-						I'm a software developer from India <i className="animated hover-bounce em-svg em-heart f-12" />
-						I'm good at MERN & LAMP Stack. I can create awesome Web application. If you have any work feel
+						I'm a Dev Ops from Argetina <i className="animated hover-bounce em-svg em-heart f-12" />
+						I'm good at Docker & Minecraft. I can create projects. If you have any work feel
 						free to contact.
 					</p>
-					<p>
+/* 					<p>
 						Some of my previous works:
 						<a rel="noopener noreferrer" target="_BLANK" href="https://betternode.com">
 							Betternode
@@ -26,7 +26,7 @@ const About = ({ name }) => {
 						<a rel="noopener noreferrer" target="_BLANK" href="https://clixwall.com">
 							ClixWall
 						</a>
-					</p>
+					</p>  */
 				</div>
 			</div>
 		</section>
