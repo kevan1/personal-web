@@ -13,20 +13,7 @@ const About = ({ name }) => {
 						I'm good at Docker & Minecraft. I can create projects. If you have any work feel
 						free to contact.
 					</p>
-/* 					<p>
-						Some of my previous works:
-						<a rel="noopener noreferrer" target="_BLANK" href="https://betternode.com">
-							Betternode
-						</a>
-						,
-						<a rel="noopener noreferrer" target="_BLANK" href="https://cryptobeanie.com">
-							CryptoBeanie
-						</a>
-						,
-						<a rel="noopener noreferrer" target="_BLANK" href="https://clixwall.com">
-							ClixWall
-						</a>
-					</p>  */
+
 				</div>
 			</div>
 		</section>
