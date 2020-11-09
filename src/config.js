@@ -5,7 +5,7 @@ const config = {
 
 	// Social media profile username
 	github: 'kevan1', // [REQUIRED] Github Username
-	twitter: 'Kevan_', // Twitter Username
+	twitter: 'Kevan____', // Twitter Username
 	stackoverflow: '14602420', // Eg: 3211944
 	medium: '', // without @ symbol
 	instagram: 'kevan.jpg',
